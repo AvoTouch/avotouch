@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.defc16871b98a509c4cb1af822830f93.js"
+  "/precache-manifest.53dc54164db6dfaee0341086f8f1f973.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "avo_labs"});
