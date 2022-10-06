@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AvoTouch
+- 👀 I’m interested in PHP Laravel, Javascript (Vue, Alpine JS and a bit in react), Python
+- 🌱 I’m currently learning Svelte adn Flutter
+- 💞️ I’m looking to collaborate on PHP projects
+- 📫 How to reach me avogadrogeryson@gmail.com  or whatsapp +255 753 416 903
